@@ -11,11 +11,13 @@ target/
 .sts4-cache
 .log
 
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
+*.log
 
 ### NetBeans ###
 nbproject/private/
@@ -25,6 +27,6 @@ dist/
 nbdist/
 .nb-gradle/
 /mvnw
-/my.log
 /mvnw.cmd
 /.mvn/
+
